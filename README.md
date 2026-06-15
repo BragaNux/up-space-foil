@@ -20,7 +20,7 @@ Fala, galera! Este é o nosso espaço de coordenação da **Equipe** para organi
 
 Para este exercício simulado, estruturamos nossa equipe como uma empresa de tecnologia dedicada ao desenvolvimento de soluções sociais de impacto. O organograma do projeto e da agência está dividido da seguinte forma:
 
-1. **[Brayan] (Product Owner - PO & Líder Frontend)**:
+1. **Brayan (Product Owner - PO & Líder Frontend)**:
    * Gerencia a visão do produto, prioriza o backlog de entregáveis, e lidera a codificação da aplicação cliente (React/Vite).
 2. **[Nicolas](README_NICOLAS.md) (Analista de Requisitos & Relacionamento)**:
    * Responsável pelo levantamento de necessidades junto ao cliente, condução do briefing, análise das dores da entidade e benchmarking de mercado.
@@ -29,7 +29,9 @@ Para este exercício simulado, estruturamos nossa equipe como uma empresa de tec
 4. **[Damacena](README_DAMACENA.md) (Tech Lead & Arquiteto de Software - CTO)**:
    * Responsável pela infraestrutura de servidores, arquitetura cliente-servidor, mapa de funcionalidades técnico e desenho lógico de banco de dados.
 5. **[Roberto](README_ROBERTO.md) (Designer UX & Analista de Psicologia Organizacional)**:
-   * Responsável pelo design de interface (Sleek/Modern), aplicação teórica da metodologia FOIL e análise de conformidade com os capítulos de Psicologia Empresarial e Psicologia da Organização.
+   * Aplicação teórica da metodologia FOIL e análise de conformidade com os capítulos de Psicologia Empresarial e Psicologia da Organização.
+
+   Todos precisam ajudar no design de interface (Sleek/Modern), precisamos discutir sobre isso, pois vamos ter que apresentar em cima disso.
 
 ---
 
