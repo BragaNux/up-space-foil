@@ -1,4 +1,4 @@
-# 🚀 Projeto UP Espaço - Equipe FOIL (Trabalho 2)
+# 🚀 Projeto UP Espaço - Equipe FOIL
 
 Bem-vindo à documentação estratégica do **Trabalho 2**, desenvolvido sob a ótica organizacional e teórica da **Equipe FOIL**. Este documento detalha a simulação de nossa agência de software que está realizando o desenvolvimento *pro bono* da aplicação **UP Espaço** para a entidade parceira.
 
