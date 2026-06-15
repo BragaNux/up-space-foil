@@ -40,7 +40,7 @@ Custo fixo estimado para manter a aplicação hospedada em ambiente de nuvem est
 Custo de operação de pessoal para manter a equipe de 5 pessoas funcionando para o projeto:
 
 * **Product Owner / Project Manager (Braga)**: R$ 4.500,00 / mês
-* **Software Engineers (Yan e Damacena)**: R$ 8.000,00 / mês (R$ 4.000,00 cada)
+* **Software Engineers (Damacena)**: R$ 8.000,00 / mês (R$ 4.000,00 cada)
 * **UX/UI Designer & BA (Roberto e Nicolas)**: R$ 7.000,00 / mês (R$ 3.500,00 cada)
 * **Encargos e Infraestrutura de Sede (Coworking)**: R$ 1.500,00 / mês
 * **Custo Total Operacional da Agência**: **R$ 21.000,00 / mês**.
