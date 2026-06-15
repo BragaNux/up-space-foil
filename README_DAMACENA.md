@@ -12,18 +12,18 @@ A aplicação é dividida em 6 módulos fundamentais acessados via barra inferio
 
 ```mermaid
 graph TD
-    App[UP Espaço App] --> Splash[1. Splash Screen & Onboarding]
-    App --> Auth[2. Login Inteligente & Cadastro]
-    App --> Home[3. Tela Início / Timeline]
-    App --> Feed[4. Feed Atividades / Logs]
-    App --> Agenda[5. Agenda de Eventos & RSVP]
-    App --> Bento[6. Bento Grid de Evolução]
-    App --> Story[7. Carrossel de Stories do Dia]
+    App["UP Espaço App"] --> Splash["1. Splash Screen & Onboarding"]
+    App --> Auth["2. Login Inteligente & Cadastro"]
+    App --> Home["3. Tela Início / Timeline"]
+    App --> Feed["4. Feed Atividades / Logs"]
+    App --> Agenda["5. Agenda de Eventos & RSVP"]
+    App --> Bento["6. Bento Grid de Evolução"]
+    App --> Story["7. Carrossel de Stories do Dia"]
 
-    Home --> Presence[Alternador Presença Estudante]
-    Feed --> SavePost[Registrar Novo Diário (Exclusivo Terapeuta)]
-    Agenda --> RSVPBtn[Confirmar RSVP]
-    Bento --> Report[Abrir Relatório Qualitativo]
+    Home --> Presence["Alternador Presença Estudante"]
+    Feed --> SavePost["Registrar Novo Diário (Exclusivo Terapeuta)"]
+    Agenda --> RSVPBtn["Confirmar RSVP"]
+    Bento --> Report["Abrir Relatório Qualitativo"]
 ```
 
 ---
