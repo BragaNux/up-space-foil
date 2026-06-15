@@ -9,7 +9,6 @@ Este documento detalha a simulação de nossa agência de software que está rea
 * **Divisão Inicial de Papéis**: As responsabilidades foram inicialmente divididas para cobrir todos os tópicos do briefing, orçamentos, benchmarks e as teorias organizacionais (FOIL e capítulos do livro).
 * **Troca de Funções**: Esta divisão é o ponto de partida. **Caso queiram trocar de responsabilidade, a troca é livre!** É necessário apenas avisar a equipe e o PO (Braga) para mantermos a documentação do repositório alinhada.
 * **Preparação da Apresentação**: 
-  > [!IMPORTANT]
   > Após a conclusão das tarefas teóricas e práticas individuais, **a equipe deve obrigatoriamente se reunir em conjunto**. Nessa reunião, organizaremos e ensaiaremos a apresentação final do projeto (tempo limite de 20 minutos), consolidando o mapa de funcionalidades, o pitch da ideia, a teoria FOIL e as análises financeiras e de benchmarking para a defesa em sala.
 
 ---
