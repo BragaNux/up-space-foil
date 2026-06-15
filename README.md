@@ -12,7 +12,6 @@ Fala, galera! Este é o nosso espaço de coordenação da **Equipe** para organi
 * **Divisão Inicial**: A divisão foi pensada para cobrir todos os tópicos exigidos no briefing, orçamentos, benchmarks e teorias do livro. 
 * **Troca de responsabilidades**: Essa divisão é só para começar. **Se vocês preferirem trocar de função ou ajustar as responsabilidades entre si, está de boa!** Apenas avisem a mim (Brayan) e ao grupo para eu manter esta documentação atualizada no repositório.
 * **Slide e Apresentação**: 
-  > [!IMPORTANT]
   > Assim que cada um terminar suas análises teóricas e levantamentos individuais, **nós vamos nos reunir**. Nessa reunião, vamos montar juntos os **slides da apresentação**, alinhar os discursos (tempo máximo de 20 minutos) e ensaiar a nossa ideia de produto para a defesa.
 
 ---
