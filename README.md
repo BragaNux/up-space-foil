@@ -1,6 +1,6 @@
 # 🚀 Projeto UP Espaço - Equipe FOIL (Produto, Negócios & Teoria)
 
-Fala, galera! Este é o nosso espaço de coordenação da **Equipe FOIL** para organizar a nossa entrega estratégica da aplicação **UP Espaço**. 
+Fala, galera! Este é o nosso espaço de coordenação da **Equipe** para organizar a nossa entrega estratégica da aplicação **UP Espaço**. 
 
 > [!TIP]
 > **Foco do nosso projeto**: O nosso foco é o **design do produto, viabilidade financeira, orçamentação e teorias de psicologia organizacional (conceitos FOIL)**. Para o nosso projeto, **o código pode ser totalmente mockado** (já temos a base do frontend funcionando com dados simulados em memória). O que realmente importa aqui é o benchmarking, os orçamentos, os fluxos de telas e a aplicação das teorias. Não há necessidade de programar código de backend ou APIs reais do zero.
