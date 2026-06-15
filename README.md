@@ -1,4 +1,4 @@
-# 🚀 Projeto UP Espaço - Equipe FOIL (Produto, Negócios & Teoria)
+# 🚀 Projeto UP Espaço - Equipe (Produto, Negócios & Teoria)
 
 Fala, galera! Este é o nosso espaço de coordenação da **Equipe** para organizar a nossa entrega estratégica da aplicação **UP Espaço**. 
 
