@@ -41,7 +41,110 @@ Custo de operação de pessoal para manter a equipe de 5 pessoas funcionando par
 
 * **Product Owner / Project Manager (Braga)**: R$ 4.500,00 / mês
 * **Software Engineers (Damacena)**: R$ 8.000,00 / mês (R$ 4.000,00 cada)
-* **UX/UI Designer & BA (Roberto e Nicolas)**: R$ 7.000,00 / mês (R$ 3.500,00 cada)
+* **UX/UI Designer & BA (Roberto e Nicolas)**: R$ 7.000,00 / mês (R$ 3.500,00 cada)💰 Plano de Atividades: Bruno (Orçamentos, Custos & Viabilidade Financeira)
+
+Olá, Bruno!
+
+Como Diretor Financeiro (CFO) do projeto, sua responsabilidade é demonstrar a viabilidade econômica da solução proposta, apresentando os custos de desenvolvimento, manutenção e possíveis formas de sustentabilidade financeira do sistema.
+
+📊 1. Orçamento de Desenvolvimento do Projeto (MVP Acadêmico)
+
+O projeto será desenvolvido inicialmente como um MVP (Produto Mínimo Viável), permitindo validar a proposta junto às instituições de ensino e responsáveis.
+
+Caso o sistema fosse contratado por uma escola ou instituição educacional, o custo estimado de desenvolvimento seria:
+
+Fase	Escopo	Horas Estimadas	Custo Total
+UX/UI Design	Prototipação no Figma e definição dos fluxos do sistema	40h	R$ 3.200,00
+Frontend Dev	Desenvolvimento das telas e interface responsiva	80h	R$ 6.400,00
+Backend Dev	Implementação da API, autenticação e regras de negócio	60h	R$ 4.800,00
+Banco de Dados	Modelagem e persistência das informações	20h	R$ 1.600,00
+Testes e Validação	Testes funcionais e validação dos fluxos	30h	R$ 2.400,00
+Documentação	Documentação técnica e manual do usuário	20h	R$ 1.200,00
+Total do Projeto (MVP)	Sistema de Acompanhamento Escolar	250h	R$ 19.600,00
+
+Este valor representa uma estimativa de mercado caso o sistema fosse desenvolvido profissionalmente por uma software house.
+
+🌐 2. Orçamento de Manutenção da Aplicação (Cenário Futuro)
+
+Após a implantação, o sistema poderá ser hospedado em ambiente de nuvem para garantir disponibilidade e segurança.
+
+Serviço	Valor Mensal
+Hospedagem da Aplicação	R$ 150,00
+Banco de Dados	R$ 80,00
+Armazenamento de Fotos e Vídeos	R$ 50,00
+Domínio e Certificados	R$ 20,00
+Total Infraestrutura	R$ 300,00/mês
+🔧 3. Evolução e Manutenção do Sistema
+
+Mesmo após a entrega do MVP, será necessário realizar correções, melhorias e atualizações.
+
+Serviço	Valor Mensal
+Correções e Evolução da Plataforma	R$ 300,00
+Total de Manutenção	R$ 300,00/mês
+💵 4. Custo Operacional Futuro
+Item	Valor
+Infraestrutura	R$ 300,00
+Manutenção e Evolução	R$ 300,00
+Total Mensal	R$ 600,00/mês
+📈 5. Modelo de Receita
+
+Para garantir a sustentabilidade do projeto, foi considerado um modelo de assinatura mensal por instituição.
+
+Plano	Valor
+Assinatura por Escola	R$ 149,00/mês
+
+Exemplo:
+
+Quantidade de Escolas	Receita Mensal
+1	R$ 149,00
+5	R$ 745,00
+10	R$ 1.490,00
+15	R$ 2.235,00
+📊 6. Ponto de Equilíbrio (Break-even)
+
+Considerando:
+
+Receita média por escola: R$ 149,00
+Custo variável por escola: R$ 10,00
+Custo fixo mensal: R$ 600,00
+
+O projeto atinge seu ponto de equilíbrio com aproximadamente 5 escolas assinantes.
+
+Isso demonstra que a solução possui potencial de sustentabilidade financeira mesmo atendendo um número reduzido de instituições.
+
+🚀 7. Funcionalidades do MVP
+Para os Responsáveis
+Acompanhamento da chegada e saída dos alunos.
+Recebimento de fotos e vídeos das atividades.
+Visualização de comunicados.
+Histórico de atividades escolares.
+Para a Escola
+Registro de presença.
+Publicação de atividades.
+Compartilhamento de comunicados.
+Organização da comunicação com os responsáveis.
+🔮 8. Funcionalidades Futuras
+Pais e Responsáveis
+Notificações em tempo real.
+Agenda escolar.
+Confirmação de presença em reuniões.
+Relatórios de acompanhamento.
+Escola
+Controle de acesso por QR Code.
+Relatórios de frequência.
+Gestão de eventos.
+Painel administrativo avançado.
+Plataforma
+Aplicativo Android.
+Aplicativo iOS.
+Hospedagem em nuvem escalável.
+Sistema de backup automático.
+Monitoramento e observabilidade.
+🎯 Considerações Finais
+
+O projeto busca resolver um problema real enfrentado por escolas e responsáveis: a dificuldade de comunicação e acompanhamento das atividades dos alunos.
+
+A proposta apresenta um MVP financeiramente viável, com baixo custo operacional, potencial de escalabilidade e possibilidade de expansão futura para uma plataforma completa de acompanhamento escolar.
 * **Encargos e Infraestrutura de Sede (Coworking)**: R$ 1.500,00 / mês
 * **Custo Total Operacional da Agência**: **R$ 21.000,00 / mês**.
 
@@ -59,3 +162,6 @@ Como o projeto é realizado no formato *pro bono* para uma entidade sem fins luc
    * Linha de crédito subsidiada ou não reembolsável para projetos que apliquem tecnologia para resolver problemas de saúde pública e integração social (como no caso do tratamento de autismo e atrasos globais de desenvolvimento pelo SUS).
 4. **Leis de Incentivo Fiscal (Pronas/PCD)**:
    * O Programa Nacional de Apoio à Atenção da Saúde da Pessoa com Deficiência permite que empresas direcionem parte do seu Imposto de Renda devido para projetos aprovados nessa área, cobrindo os custos de licenciamento e desenvolvimento de software do UP Espaço.
+
+## 5 link da planilha com os orçamentos
+[Planilha](https://1drv.ms/x/c/54ca7fd021def62a/IQB1V4FDo5FgR7qvPikFCVwFAcGtUEDHoZC99izE8y2VXvQ?e=ufpeaG)
