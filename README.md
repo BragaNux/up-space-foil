@@ -1,15 +1,19 @@
-# 🚀 Projeto UP Espaço - Equipe FOIL
+# 🚀 Projeto UP Espaço - Equipe FOIL (Produto, Negócios & Teoria)
 
-Este documento detalha a simulação de nossa agência de software que está realizando o desenvolvimento *pro bono* da aplicação **UP Espaço** para a entidade parceira.
+Fala, galera! Este é o nosso espaço de coordenação da **Equipe FOIL** para organizar a nossa entrega estratégica da aplicação **UP Espaço**. 
+
+> [!TIP]
+> **Foco do nosso projeto**: O nosso foco é o **design do produto, viabilidade financeira, orçamentação e teorias de psicologia organizacional (conceitos FOIL)**. Para o nosso projeto, **o código pode ser totalmente mockado** (já temos a base do frontend funcionando com dados simulados em memória). O que realmente importa aqui é o benchmarking, os orçamentos, os fluxos de telas e a aplicação das teorias. Não há necessidade de programar código de backend ou APIs reais do zero.
 
 ---
 
-## ⚙️ Diretrizes da Equipe & Funcionamento
+## ⚙️ Como vai funcionar?
 
-* **Divisão Inicial de Papéis**: As responsabilidades foram inicialmente divididas para cobrir todos os tópicos do briefing, orçamentos, benchmarks e as teorias organizacionais (FOIL e capítulos do livro).
-* **Troca de Funções**: Esta divisão é o ponto de partida. **Caso queiram trocar de responsabilidade, a troca é livre!** É necessário apenas avisar a equipe e o PO (Braga) para mantermos a documentação do repositório alinhada.
-* **Preparação da Apresentação**: 
-  > Após a conclusão das tarefas teóricas e práticas individuais, **a equipe deve obrigatoriamente se reunir em conjunto**. Nessa reunião, organizaremos e ensaiaremos a apresentação final do projeto (tempo limite de 20 minutos), consolidando o mapa de funcionalidades, o pitch da ideia, a teoria FOIL e as análises financeiras e de benchmarking para a defesa em sala.
+* **Divisão Inicial**: A divisão foi pensada para cobrir todos os tópicos exigidos no briefing, orçamentos, benchmarks e teorias do livro. 
+* **Troca de responsabilidades**: Essa divisão é só para começar. **Se vocês preferirem trocar de função ou ajustar as responsabilidades entre si, está de boa!** Apenas avisem a mim (Brayan) e ao grupo para eu manter esta documentação atualizada no repositório.
+* **Slide e Apresentação**: 
+  > [!IMPORTANT]
+  > Assim que cada um terminar suas análises teóricas e levantamentos individuais, **nós vamos nos reunir**. Nessa reunião, vamos montar juntos os **slides da apresentação**, alinhar os discursos (tempo máximo de 20 minutos) e ensaiar a nossa ideia de produto para a defesa.
 
 ---
 
@@ -17,15 +21,15 @@ Este documento detalha a simulação de nossa agência de software que está rea
 
 Para este exercício simulado, estruturamos nossa equipe como uma empresa de tecnologia dedicada ao desenvolvimento de soluções sociais de impacto. O organograma do projeto e da agência está dividido da seguinte forma:
 
-1. **Braga (Product Owner - PO & Líder Frontend)**:
+1. **[Brayan] (Product Owner - PO & Líder Frontend)**:
    * Gerencia a visão do produto, prioriza o backlog de entregáveis, e lidera a codificação da aplicação cliente (React/Vite).
-2. **[Nicolas](file:///c:/Users/Braga/Desktop/frontend_up/equipe_foil/README_NICOLAS.md) (Analista de Requisitos & Relacionamento)**:
+2. **[Nicolas](README_NICOLAS.md) (Analista de Requisitos & Relacionamento)**:
    * Responsável pelo levantamento de necessidades junto ao cliente, condução do briefing, análise das dores da entidade e benchmarking de mercado.
-3. **[Bruno](file:///c:/Users/Braga/Desktop/frontend_up/equipe_foil/README_BRUNO.md) (Diretor Financeiro & Captação - CFO)**:
+3. **[Bruno](README_BRUNO.md) (Diretor Financeiro & Captação - CFO)**:
    * Responsável pelas planilhas de orçamentação (custo real do projeto, manutenção do app, folha de pagamento da agência) e pesquisa de editais públicos/linhas de fomento.
-4. **[Damacena](file:///c:/Users/Braga/Desktop/frontend_up/equipe_foil/README_DAMACENA.md) (Tech Lead & Arquiteto de Software - CTO)**:
+4. **[Damacena](README_DAMACENA.md) (Tech Lead & Arquiteto de Software - CTO)**:
    * Responsável pela infraestrutura de servidores, arquitetura cliente-servidor, mapa de funcionalidades técnico e desenho lógico de banco de dados.
-5. **[Roberto](file:///c:/Users/Braga/Desktop/frontend_up/equipe_foil/README_ROBERTO.md) (Designer UX & Analista de Psicologia Organizacional)**:
+5. **[Roberto](README_ROBERTO.md) (Designer UX & Analista de Psicologia Organizacional)**:
    * Responsável pelo design de interface (Sleek/Modern), aplicação teórica da metodologia FOIL e análise de conformidade com os capítulos de Psicologia Empresarial e Psicologia da Organização.
 
 ---
@@ -55,7 +59,7 @@ Para suportar o desenvolvimento e manutenção deste projeto e o funcionamento d
 
 Cada membro possui um documento de trabalho detalhando suas entregas. Acesse os planos específicos clicando nos links abaixo:
 
-* 📚 **[Relatório de Requisitos, Visita & Benchmarking (Nicolas)](file:///c:/Users/Braga/Desktop/frontend_up/equipe_foil/README_NICOLAS.md)**
-* 💰 **[Estudos de Viabilidade Financeira & Editais (Bruno)](file:///c:/Users/Braga/Desktop/frontend_up/equipe_foil/README_BRUNO.md)**
-* 🧱 **[Mapa de Funcionalidades & Arquitetura Técnica (Damacena)](file:///c:/Users/Braga/Desktop/frontend_up/equipe_foil/README_DAMACENA.md)**
-* 🧠 **[UX Layout, Teoria FOIL & Psicologia Organizacional (Roberto)](file:///c:/Users/Braga/Desktop/frontend_up/equipe_foil/README_ROBERTO.md)**
+* 📚 **[Relatório de Requisitos, Visita & Benchmarking (Nicolas)](README_NICOLAS.md)**
+* 💰 **[Estudos de Viabilidade Financeira & Editais (Bruno)](README_BRUNO.md)**
+* 🧱 **[Mapa de Funcionalidades & Arquitetura Técnica (Damacena)](README_DAMACENA.md)**
+* 🧠 **[UX Layout, Teoria FOIL & Psicologia Organizacional (Roberto)](README_ROBERTO.md)**
